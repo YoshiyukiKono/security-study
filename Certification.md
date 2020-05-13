@@ -13,6 +13,9 @@ CompTIA Network+
 CISSP
 
 ## CEH(Certified Ethical Hacker)
+
+https://www.gsx.co.jp/academy/ceh.html
+
 ```
 必要条件	■下記の内容が理解できれば問題ありません(予習推奨)
 
